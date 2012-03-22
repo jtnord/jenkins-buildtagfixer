@@ -1,0 +1,8 @@
+<!--
+  This view is used to render the installed plugins page.
+-->
+<div>
+ A BuildWrapper that fixes the ${BUILD_TAG} variable to be hierarchical aware.<br/>
+ This allows versions prior to 1.456 to have a correct ${BUILD_TAG}.
+ Versions from 1.456 and onwards have <a href="https://github.com/jenkinsci/jenkins/pull/402">pull request 402</a> merged in.
+</div>

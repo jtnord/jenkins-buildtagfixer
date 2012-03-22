@@ -1,0 +1,7 @@
+#build folder
+target
+
+# eclipse project settings
+.classpath
+.settings
+.project
